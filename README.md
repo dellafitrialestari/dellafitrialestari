@@ -13,9 +13,9 @@
 </p>
 
 ### GitHub Stats
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dellafitrialestari&theme=midnight-purple&hide_border=true" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dellafitrialestari&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="flex: 1;">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dellafitrialestari&theme=midnight-purple&hide_border=true" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dellafitrialestari&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400" height="200">
 </div>
 
 ---
