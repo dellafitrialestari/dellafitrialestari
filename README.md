@@ -13,8 +13,10 @@
 </p>
 
 ### GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dellafitrialestari&theme=midnight-purple&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dellafitrialestari&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dellafitrialestari&theme=midnight-purple&hide_border=true" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dellafitrialestari&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="flex: 1;">
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dellafitrialestari&icon=0&color=0)](https://visitcount.itsvg.in)
