@@ -1,5 +1,5 @@
 ## About Me
-👋 Hi, I’m @dellafitrialestari<br>👀 I’m interested in Mobile and Web Develeopment<br>🌱 I’m currently learning Kotlin and other interesting technology
+👋 Hi, I’m @dellafitrialestari<br>👀 I’m interested in Mobile and Web Development<br>🌱 I’m currently learning Kotlin and other interesting technology
 
 
 ### Socials
